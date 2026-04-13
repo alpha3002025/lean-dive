@@ -4,7 +4,8 @@
     },
     "context": {
         "includeDirectories": [
-            "./.gemini/plugins/ralph"
+            "./.gemini/plugins/ralph",
+            "./.gemini/plugins/lean-dive"
         ]
     }
 }

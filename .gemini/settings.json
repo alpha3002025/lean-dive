@@ -1,0 +1,10 @@
+{
+    "model": {
+        "name": "gemini-3-flash-preview"
+    },
+    "context": {
+        "includeDirectories": [
+            "./.gemini/plugins/ralph"
+        ]
+    }
+}
